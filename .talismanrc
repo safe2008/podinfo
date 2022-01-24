@@ -1,0 +1,13 @@
+fileignoreconfig:
+- filename: go.sum
+  checksum: 4bc18bc8b3fa730a30ee8bf10c39975da1092bbe0e47b73c2d093e9626d11aef
+- filename: helm/podinfo/templates/ingress.yaml
+  checksum: e0dc47304c210ef9d414d66c0687a5cbc37d97069a81d4b23e16b2b642791286
+- filename: helm/podinfo/values-no-iwatch.yaml
+  checksum: 8cf5e4aa727af8080b1a68bbdf14772c610352d1049fba66994c99a50dfc43bc
+- filename: helm/podinfo/values.yaml
+  checksum: ff3f9eab10a01d5313569824e4182d40ad980e5fcf908f9b2a423734c61cc16c
+- filename: helm/podinfo/templates/deployment.yaml
+  checksum: 10f7c5284d61e6cb53b4eb415b8dea7b3b934593e66aad1892e6378348964785
+- filename: kubernetes-vault.sh
+  checksum: c3461f3127a65a9c9f20d4078eb3d361c6dd167b8a975b21761b76bdca7259a2
