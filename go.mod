@@ -2,7 +2,7 @@ module podinfo
 
 go 1.17
 
-require github.com/gofiber/fiber/v2 v2.24.0
+require github.com/gofiber/fiber/v2 v2.25.0
 
 require (
 	github.com/andybalholm/brotli v1.0.2 // indirect
@@ -45,7 +45,7 @@ require (
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/tomazk/envcfg v0.0.0-20170619155318-23e3618f1e33 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.31.0 // indirect
+	github.com/valyala/fasthttp v1.32.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
