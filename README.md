@@ -8,8 +8,12 @@ Topic Dynamic sync k8s secret with HashiCorp Vault
 ![](images/podinfo.png)
 
 ## Prerequisite
+
+```
 Vault server installed (On this demo use vault enterprise)
 Vault side car installed
+
+```
 
 ```
 ## Export environment
