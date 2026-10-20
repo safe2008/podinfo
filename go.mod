@@ -1,6 +1,6 @@
 module podinfo
 
-go 1.17
+go 1.24
 
 require github.com/gofiber/fiber/v2 v2.52.5
 
@@ -32,7 +32,7 @@ require (
 	github.com/hashicorp/vault/api v1.3.1 // indirect
 	github.com/hashicorp/vault/sdk v0.3.0 // indirect
 	github.com/hashicorp/yamux v0.0.0-20180604194846-3520598351bb // indirect
-	github.com/klauspost/compress v1.17.0 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
